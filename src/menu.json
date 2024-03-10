@@ -1,0 +1,245 @@
+
+    [
+      {
+        "category": "Appetizer",
+        "name": "Fresh Vegetable Salad",
+        "price": 25,
+        "image": "https://images.pexels.com/photos/257816/pexels-photo-257816.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "A refreshing salad made with crisp lettuce, ripe tomatoes, crunchy cucumbers, and tangy vinaigrette dressing.",
+        "rate": 4.5
+      },
+      {
+        "category": "Appetizer",
+        "name": "Cream of Vegetable Soup",
+        "price": 22,
+        "image": "https://images.pexels.com/photos/3493579/pexels-photo-3493579.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Smooth and creamy soup made from a medley of fresh vegetables, perfect for warming up on a chilly day.",
+        "rate": 4.2
+      },
+      {
+        "category": "Main Course",
+        "name": "Roasted Beef Fillet in Red Wine Sauce",
+        "price": 55,
+        "image": "https://images.pexels.com/photos/7627443/pexels-photo-7627443.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Tender beef fillet slow-roasted to perfection and served with a rich red wine sauce.",
+        "rate": 4.8
+      },
+      {
+        "category": "Main Course",
+        "name": "Couscous with Grilled Vegetables",
+        "price": 49,
+        "image": "https://images.pexels.com/photos/15388079/pexels-photo-15388079/free-photo-of-grilled-meat-and-vegetables-with-pearl-barley.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Fluffy couscous paired with a colorful assortment of grilled vegetables, drizzled with olive oil and lemon juice.",
+        "rate": 4.6
+      },
+      {
+        "category": "Dessert",
+        "name": "Strawberry Tart with Caramel",
+        "price": 39,
+        "image": "https://images.pexels.com/photos/9501419/pexels-photo-9501419.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "A delightful dessert featuring a buttery tart crust filled with luscious strawberries and topped with a sweet caramel glaze.",
+        "rate": 4.9
+      },
+      {
+        "category": "Appetizer",
+        "name": "Garlic Bread",
+        "price": 12,
+        "image": "https://images.pexels.com/photos/5644922/pexels-photo-5644922.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Warm and toasty garlic bread, infused with fragrant garlic and sprinkled with parsley.",
+        "rate": 4.3
+      },
+      {
+        "category": "Appetizer",
+        "name": "Caprese Salad",
+        "price": 28,
+        "image": "https://images.pexels.com/photos/15792482/pexels-photo-15792482/free-photo-of-vegetable-salad-on-a-wooden-table.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "A classic Italian salad made with ripe tomatoes, fresh mozzarella cheese, basil leaves, and balsamic glaze.",
+        "rate": 4.7
+      },
+      {
+        "category": "Main Course",
+        "name": "Chicken Alfredo Pasta",
+        "price": 42,
+        "image": "https://images.pexels.com/photos/15059719/pexels-photo-15059719/free-photo-of-meal-in-bowl.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Creamy fettuccine pasta tossed with grilled chicken breast strips and Parmesan cheese.",
+        "rate": 4.4
+      },
+      {
+        "category": "Main Course",
+        "name": "Vegetable Stir-Fry",
+        "price": 38,
+        "image": "https://images.pexels.com/photos/991967/pexels-photo-991967.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "A colorful and nutritious stir-fry made with a variety of fresh vegetables, sautéed in a savory soy sauce.",
+        "rate": 4.6
+      },
+      {
+        "category": "Dessert",
+        "name": "Chocolate Lava Cake",
+        "price": 34,
+        "image": "https://images.pexels.com/photos/14945393/pexels-photo-14945393.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Indulge in this decadent chocolate cake with a molten chocolate center, served with a scoop of vanilla ice cream.",
+        "rate": 4.8
+      },
+      {
+        "category": "Appetizer",
+        "name": "Bruschetta",
+        "price": 18,
+        "image": "https://images.pexels.com/photos/5639411/pexels-photo-5639411.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Slices of toasted baguette topped with diced tomatoes, garlic, basil, and olive oil.",
+        "rate": 4.4
+      },
+      {
+        "category": "Appetizer",
+        "name": "Mozzarella Sticks",
+        "price": 17,
+        "image": "https://images.pexels.com/photos/5639378/pexels-photo-5639378.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Golden-brown breaded mozzarella cheese sticks, served with marinara sauce for dipping.",
+        "rate": 4.7
+      },
+      {
+        "category": "Main Course",
+        "name": "Grilled Tofu with Teriyaki Glaze",
+        "price": 45,
+        "image": "https://images.pexels.com/photos/15388080/pexels-photo-15388080/free-photo-of-grilled-meat-with-vegetables-sprinkled-with-dried-spices.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Succulent tofu steaks marinated in teriyaki sauce and grilled to perfection, served with steamed rice and vegetables.",
+        "rate": 4.2
+      },
+      {
+        "category": "Main Course",
+        "name": "Shrimp Scampi",
+        "price": 48,
+        "image": "https://images.pexels.com/photos/15387324/pexels-photo-15387324/free-photo-of-roasted-shrimp-with-vegetables.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Juicy shrimp sautéed in garlic butter and white wine sauce, served over a bed of angel hair pasta.",
+        "rate": 4.9
+      },
+      {
+        "category": "Dessert",
+        "name": "Tiramisu",
+        "price": 37,
+        "image": "https://images.pexels.com/photos/12035685/pexels-photo-12035685.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "A classic Italian dessert made with layers of espresso-soaked ladyfingers, mascarpone cheese, and cocoa powder.",
+        "rate": 4.6
+      },
+      {
+        "category": "Appetizer",
+        "name": "Spinach Artichoke Dip",
+        "price": 19,
+        "image": "https://images.pexels.com/photos/14883756/pexels-photo-14883756.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Creamy spinach and artichoke dip, baked to golden perfection and served with tortilla chips.",
+        "rate": 4.5
+      },
+      {
+        "category": "Appetizer",
+        "name": "Stuffed Mushrooms",
+        "price": 21,
+        "image": "https://images.pexels.com/photos/14141428/pexels-photo-14141428.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Savory mushroom caps stuffed with a mixture of breadcrumbs, garlic, herbs, and Parmesan cheese.",
+        "rate": 4.3
+      },
+      {
+        "category": "Main Course",
+        "name": "Beef Stroganoff",
+        "price": 53,
+        "image": "https://images.pexels.com/photos/15383704/pexels-photo-15383704/free-photo-of-roast-meat-with-herbs.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Tender slices of beef in a rich and creamy mushroom sauce, served over egg noodles.",
+        "rate": 4.7
+      },
+      {
+        "category": "Main Course",
+        "name": "Vegetable Lasagna",
+        "price": 47,
+        "image": "https://img.freepik.com/free-photo/traditional-lasagna-with-rich-bolognese-sauce_60438-3572.jpg?t=st=1709427352~exp=1709430952~hmac=f567944d645b6b60835311a2c224504ab0864b94c1b62306c9737b4ec2225982&w=1060",
+        "description": "Layers of lasagna noodles, marinara sauce, assorted vegetables, and melted cheese, baked to perfection.",
+        "rate": 4.5
+      },
+      {
+        "category": "Dessert",
+        "name": "Cheesecake",
+        "price": 35,
+        "image": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Creamy New York-style cheesecake with a graham cracker crust, topped with your choice of fruit compote.",
+        "rate": 4.8
+      },{
+        "category": "Appetizer",
+        "name": "Chicken Wings",
+        "price": 23,
+        "image": "https://images.pexels.com/photos/106343/pexels-photo-106343.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Crispy chicken wings tossed in your choice of sauce: buffalo, barbecue, or honey mustard.",
+        "rate": 4.6
+      },
+      {
+        "category": "Appetizer",
+        "name": "Nachos Supreme",
+        "price": 20,
+        "image": "https://images.pexels.com/photos/8920125/pexels-photo-8920125.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Tortilla chips topped with seasoned ground beef, melted cheese, salsa, sour cream, and jalapeños.",
+        "rate": 4.7
+      },
+      {
+        "category": "Main Course",
+        "name": "Margherita Pizza",
+        "price": 30,
+        "image": "https://images.pexels.com/photos/14391207/pexels-photo-14391207.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Classic pizza topped with tomato sauce, fresh mozzarella cheese, tomatoes, and basil leaves.",
+        "rate": 4.5
+      },
+      {
+        "category": "Main Course",
+        "name": "Beef Burger",
+        "price": 26,
+        "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Juicy beef patty served on a toasted bun with lettuce, tomato, onion, and your choice of toppings.",
+        "rate": 4.8
+      },
+      {
+        "category": "Dessert",
+        "name": "Key Lime Pie",
+        "price": 32,
+        "image": "https://images.pexels.com/photos/792406/pexels-photo-792406.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Tangy and refreshing key lime pie with a buttery graham cracker crust, topped with whipped cream.",
+        "rate": 4.4
+      },
+      {
+        "category": "Appetizer",
+        "name": "Potato Skins",
+        "price": 18,
+        "image": "https://images.pexels.com/photos/1893555/pexels-photo-1893555.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Crispy potato skins loaded with melted cheese, bacon bits, and green onions, served with sour cream.",
+        "rate": 4.3
+      },
+      {
+        "category": "Appetizer",
+        "name": "Fried Calamari",
+        "price": 27,
+        "image": "https://images.pexels.com/photos/4181933/pexels-photo-4181933.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Tender calamari rings lightly breaded and fried to perfection, served with marinara sauce.",
+        "rate": 4.6
+      },
+      {
+        "category": "Main Course",
+        "name": "Vegetarian Paella",
+        "price": 48,
+        "image": "https://img.freepik.com/free-photo/top-close-up-view-plate-green-beans-plate-green-beans-tomatoes-bottle-oil-garlic-lemon-table_140725-123644.jpg?t=st=1709427271~exp=1709430871~hmac=2d4aafa5a67db75a0e6f29ce5f669bea94eef3024c873cf8f08a03b5c0c4f9db&w=996",
+        "description": "Traditional Spanish rice dish made with saffron-infused rice, vegetables, and a variety of spices.",
+        "rate": 4.2
+      },
+      {
+        "category": "Main Course",
+        "name": "Salmon Teriyaki",
+        "price": 54,
+        "image": "https://images.pexels.com/photos/3655916/pexels-photo-3655916.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Grilled salmon fillet glazed with a sweet and savory teriyaki sauce, served with steamed rice and vegetables.",
+        "rate": 4.7
+      },
+      {
+        "category": "Dessert",
+        "name": "Banoffee Pie",
+        "price": 36,
+        "image": "https://images.pexels.com/photos/9501718/pexels-photo-9501718.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "description": "Indulgent pie made with layers of caramel, sliced bananas, whipped cream, and a crumbly biscuit base.",
+        "rate": 4.9
+      }
+
+    ]
+  
+  

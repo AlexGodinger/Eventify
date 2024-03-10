@@ -1,0 +1,235 @@
+body{  
+    background-color: tan;
+}
+
+header {
+    background-color: tan;
+    padding: 10px;
+}
+
+
+.navi {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.link {
+    color: black;
+    font-weight: bold;
+    padding: 8px;
+    text-decoration: none;
+
+}
+
+
+
+.nav-link.active{
+    color: tan !important;
+}
+
+
+a{
+    text-decoration: none;
+    color: black    ;
+    text-align: center;
+}
+
+a:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.line::after{
+    content: "";
+    width: 0%;
+    background-color: black;
+    display: block;
+    margin: 0 auto;
+    height: 1px;
+    transition: 500ms;
+}
+
+.line:hover:after {
+    width: 100%;
+}
+
+
+ 
+.i1 {
+    background-image: url("images/tabals.jpg");
+
+}
+
+.i2 {
+    background-image: url("images/outside.jpg");
+}
+
+.i3 {
+    background-image: url("images/pexels-asad-photo-maldives-169185\ \(1\).jpg");
+}
+
+.i4 {
+    background-image: url("images/inside.jpg");
+    
+}
+
+.d{
+    min-height: 500px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
+
+.CUP{
+    color: white;
+    min-height: 500px;
+    background-image: url("images/bunch-flowers-leaves-table.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.AUP{
+    background-image: url(https://www.easywed.co.il/wp-content/uploads/2022/12/11_optimized-2-1024x682.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.dif{
+    background-color: bisque    ;
+}
+
+.IP {
+
+    color: whitesmoke;
+
+    font-family: 'Ephesis', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Water Brush', cursive;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    background-image: url(https://floristsreview.com/wp-content/uploads/2020/02/lendedu-average-cost-of-wedding-flowers_hero_1800x800_v20200130084204-3.jpeg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+
+.pic {
+    background-image: url(https://www.jagoanhosting.com/blog/wp-content/uploads/2022/07/faq-adalah.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+
+}
+
+.acor {
+
+    text-align: center;
+    justify-content: center;
+
+}
+
+.accordion-item {
+    background-color: gainsboro;
+}
+
+
+
+.aboutPic {
+    min-height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-image: url('images/about.jpg');
+}
+
+.team{
+   min-height: 100px;
+
+}
+
+.teamPhoto{
+    border-radius: 100px;
+}
+
+.teamPhoto:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+}
+ 
+
+.nice
+{
+    font-family: 'Rajdhani', sans-serif;
+    margin-top: 16px;
+
+}
+
+.big {
+    margin-top: 16px;
+    overflow: hidden;
+}
+
+.big h2 {
+    margin-bottom: 16px;
+    font-family: 'Ephesis', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Water Brush', cursive;
+}
+
+.menuPic{
+    background-image: url('https://img.freepik.com/free-photo/two-pieces-medium-cooked-steak-served-with-tomato-mushroom-zucchini_141793-2461.jpg?t=st=1708942861~exp=1708946461~hmac=7aab152542978f20af5404957684c53e035787e06d6fbef2141b79eb9a2a9bb8&w=996');
+    height: 500px;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.big:hover img {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+ }
+
+.big:hover h2 {
+    font-size: 1.8em;
+     transition: font-size 0.3s ease-in-out;
+ }
+
+ .active2{
+    background-color: black !important;
+    color: white !important;
+ }
+
+ .center {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+section{
+    background-color: tan;
+}
+
+footer{
+    background-color: tan;
+}
